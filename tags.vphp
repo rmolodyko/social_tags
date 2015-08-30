@@ -1,0 +1,18 @@
+<!-- Google plus -->
+<meta itemprop="name" content="<?php iv('title'); ?>"/>
+<meta itemprop="description" content="<?php iv('description'); ?>"/>
+<meta itemprop="image" content="<?php iv('image'); ?>"/>
+
+<!-- Twitter -->
+<meta name="twitter:site" content="<?php iv('site_name'); ?>"/>
+<meta name="twitter:title" content="<?php iv('title'); ?>">
+<meta name="twitter:description" content="<?php iv('description'); ?>"/>
+<meta name="twitter:creator" content="<?php iv('author'); ?>"/>
+<meta name="twitter:image:src" content="<?php iv('image'); ?>"/>
+
+<!-- Facebook -->
+<meta property="og:title" content="<?php iv('title'); ?>"/>
+<meta property="og:description" content="<?php iv('description'); ?>"/>
+<meta property="og:image" content="<?php iv('image'); ?>"/>
+<meta property="og:url" content="<?php iv('author'); ?>"/>
+<meta property="og:site_name" content="<?php iv('site_name'); ?>"/>
